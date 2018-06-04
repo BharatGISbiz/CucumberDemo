@@ -1,0 +1,70 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "To verify the Login Functionality",
+        "description": "",
+        "id": "to-run-a-demo-selenium-with-cucumber;to-verify-the-login-functionality",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 15311928693,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I Open the website",
+            "match": {
+              "location": "Steps.i_Open_the_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 202207631,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I enter Valid Username and Password",
+            "match": {
+              "location": "Steps.i_enter_Valid_Username_and_Password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2220735210,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on Login button",
+            "match": {
+              "location": "Steps.i_click_on_Login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 137138670,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be able to login",
+            "match": {
+              "location": "Steps.i_should_be_able_to_login()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To run a demo Selenium With Cucumber",
+    "description": "",
+    "id": "to-run-a-demo-selenium-with-cucumber",
+    "keyword": "Feature",
+    "uri": "CucumberDemo.feature"
+  }
+]

@@ -25,5 +25,6 @@
 	<classpathentry kind="lib" path="E:/Automation Softwares/Unzipped Files/selenium-java-3.9.1/libs/commons-exec-1.3.jar"/>
 	<classpathentry kind="lib" path="E:/Automation Softwares/Unzipped Files/selenium-java-3.9.1/libs/commons-codec-1.10.jar"/>
 	<classpathentry kind="lib" path="E:/Automation Softwares/Unzipped Files/selenium-java-3.9.1/libs/byte-buddy-1.7.9.jar"/>
+	<classpathentry kind="lib" path="E:/Automation Softwares/Unzipped Files/Cucumber-jars/cucumber-html-0.2.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -3,7 +3,6 @@ package stepDefinition;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.ie.InternetExplorerDriver;
 
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;

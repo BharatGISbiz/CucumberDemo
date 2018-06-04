@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="17.339461">
+<testcase classname="To run a demo Selenium With Cucumber" name="To verify the Login Functionality" time="17.339461">
+<system-out><![CDATA[Given I Open the website....................................................passed
+When I enter Valid Username and Password....................................passed
+And I click on Login button.................................................passed
+Then I should be able to login..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
